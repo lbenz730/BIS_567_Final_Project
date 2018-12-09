@@ -10,8 +10,8 @@ Note: The actual cleaned training data can not be uploaded to GitHub due to its 
 
 ## Figures:
 Figures used in the final poster.
-![posteriors](Documents/Fall 2018/BIS 567/Final Project/figures/posteriors.png)
-![credible_intervals](Documents/Fall 2018/BIS 567/Final Project/figures/credible_intervals.png)
-![timeout_effect](Documents/Fall 2018/BIS 567/Final Project/figures/timeout_effect.png)
-![posterior_correlations](Documents/Fall 2018/BIS 567/Final Project/figures/posterior_correlations.png)
-![wp_chart](Documents/Fall 2018/BIS 567/Final Project/figures/wp_chart.png)
+![posteriors](Documents/Fall%202018/BIS%20567/Final%20Project/figures/posteriors.png)
+![credible_intervals](Documents/Fall%202018/BIS%20567/Final%20Project/figures/credible_intervals.png)
+![timeout_effect](Documents/Fall%202018/BIS%20567/Final%20Project/figures/timeout_effect.png)
+![posterior_correlations](Documents/Fall%202018/BIS%20567/Final%20Project/figures/posterior_correlations.png)
+![wp_chart](Documents/Fall%202018/BIS%20567/Final%20Project/figures/wp_chart.png)
