@@ -7,3 +7,11 @@ Final Project For BIS 567 (Bayesian Statistics)
 * __analysis.R:__ Creates figures for final poster.
 
 Note: The actual cleaned training data can not be uploaded to GitHub due to its size but can be replicated in it's entirety using the __cleaning.R__ script.
+
+## Figures:
+Figures used in the final poster.
+![posteriors](figures/posteriors.png)
+![credible_intervals](figures/credible_intervals.png)
+![timeout_effect](figures/timeout_effect.png)
+![posterior_correlations](figures/posterior_correlations.png)
+![wp_chart](figures/wp_chart.png)
