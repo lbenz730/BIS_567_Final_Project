@@ -13,5 +13,5 @@ Figures used in the final poster.
 ![posteriors](Documents/Fall%202018/BIS%20567/Final%20Project/figures/posteriors.png)
 ![credible_intervals](Documents/Fall%202018/BIS%20567/Final%20Project/figures/credible_intervals.png)
 ![timeout_effect](Documents/Fall%202018/BIS%20567/Final%20Project/figures/timeout_effect.png)
-![posterior_correlations](Documents/Fall%202018/BIS%20567/Final%20Project/figures/posterior_correlations.png)
+![posterior_correlations](Documents/Fall%202018/BIS%20567/Final%20Project/figures/posterior_correlation.png)
 ![wp_chart](Documents/Fall%202018/BIS%20567/Final%20Project/figures/wp_chart.png)
